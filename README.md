@@ -10,8 +10,8 @@
 <p align="center"><b>● Development in progress</b> · Investor and partner material · October 2026</p>
 
 <p align="center">
-  <a href="video/VACAD3D-promo-en.mp4"><img src="video/poster-en.jpg" alt="Watch the 56-second VACAD3D promo video" width="860"></a><br>
-  <sub>▶ <a href="video/VACAD3D-promo-en.mp4">Watch the 56-second promo video</a> (MP4, 1080p, English narration)</sub>
+  <a href="https://youtu.be/s_7B8iJE6KY"><img src="video/poster-en.jpg" alt="Watch the 56-second VACAD3D promo video on YouTube" width="860"></a><br>
+  <sub>▶ <a href="https://youtu.be/s_7B8iJE6KY">Watch the 56-second promo video on YouTube</a> (English narration)</sub>
 </p>
 
 VACAD3D is a desktop application that turns a 3D scan of a mechanical part into a **native, editable CAD model**. You get a FreeCAD feature tree with real holes, pockets, chamfers and fillets, plus a STEP file for your own CAD system. You no longer have to redraw a scanned part by hand.
@@ -20,7 +20,7 @@ VACAD3D is a desktop application that turns a 3D scan of a mechanical part into 
 
 | | English | Slovenčina | Deutsch |
 |---|---|---|---|
-| Promo video, 56 s | [MP4](video/VACAD3D-promo-en.mp4) | coming soon | — |
+| Promo video, 56 s | [YouTube](https://youtu.be/s_7B8iJE6KY) | coming soon | — |
 | Investor & partner deck, 12 slides | [PDF](decks/VACAD3D-investor-deck-en.pdf) | [PDF](decks/VACAD3D-investor-deck-sk.pdf) | [PDF](decks/VACAD3D-investor-deck-de.pdf) |
 | App screenshots | [6 PNG](screenshots/) | | |
 | Logo | [primary and inverse PNG](brand/) | | |
